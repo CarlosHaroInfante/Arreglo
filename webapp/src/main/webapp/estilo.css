@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body {
+	font-family: Arial, sans-serif;
+	padding: 20px;
+	text-align: centre;
+}
+
+
+
+h1 {
+	color: #333;
+}
+
+img:hover {
+	margin-top: 20px;
+	height: 160px;
+	width: 160px;
+}
+
+.img2 {
+	height: 80px;
+	width: 80px;
+}
+
+
+
+ul {
+
+	padding: 0;
+}
+
+li {
+	margin: 10px;
+}
+
+p {
+	height: 10%;
+}
